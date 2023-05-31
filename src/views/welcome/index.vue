@@ -83,16 +83,16 @@ const arr = [
   <!-- section2 -->
   <div class="bg-base-200 mt-10 text-center py-20">
     <h1 class="text-2xl font-bold dark:text-slate-200">
-      Web3 Computing Resource Trusted Management System
+      CloudNative3 System Architecture
     </h1>
     <p
       class="py-6 text-lg max-w-[700px] mx-auto text-slate-500 dark:text-slate-400"
     >
-      The Web3 computing resource trust management system is one of the
-      applications of blockchain technology in the field of computing resources.
-      It can provide more secure, reliable and efficient computing resource
-      management solutions for cloud computing, big data analysis and other
-      fields.
+      CloudNative3 provides a complete solution, including technologies such as
+      container cloud, service grid governance, zero-trust security control, and
+      decentralized security control of on-chain oracles. At the same time, the
+      communication proof mechanism based on TLSNotary can also ensure the
+      security and reliability of communication.
     </p>
 
     <div>
