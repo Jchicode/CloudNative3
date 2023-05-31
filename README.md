@@ -1,21 +1,32 @@
 # CloudNative3🌏
 
 ## Inspiration
+CloudNative3 uses the function of Chainlink oracle to realize decentralized security control, which is the key to realize the migration of Web2 applications to Web3 environment. By using Chainlink oracles, CloudNative3 can ensure data reliability and security.
 
-CloudNative3 is inspired by the need for a revolutionary cloud-native solution that harnesses the power of Web3 technologies. The aim is to bridge the gap between Web2 and Web3, enabling seamless integration of blockchain capabilities into cloud-native applications.
+## What it does
+CloudNative3 can provide a solution for seamlessly migrating Web2 applications to Web3 environments, supporting decentralized cloud computing, decentralized service orchestration governance, and decentralized zero-trust security control
 
-## Project Applications
+## How we built it
+### Chainlink Oracle
+Decentralized security control through Chainlink oracles, including cloud computing platform control engine, data response, etc.
 
-CloudNative3 offers a wide range of applications in various industries. It provides a scalable and secure platform for developing and deploying cloud-native applications that leverage the benefits of blockchain technology. From decentralized finance (DeFi) to supply chain management and data sharing, CloudNative3 empowers developers and enterprises with innovative use cases and enhanced trust.
+### Proof of communication
+Based on TLSNotary combined with Chainlink external adapter to realize communication proof, which can ensure the security and reliability of communication
 
-## Architecture
+### Decentralized cloud computing platform
+Including technologies such as container cloud, service grid governance, zero-trust security control, and decentralized security control of on-chain oracles
 
-The core strength of CloudNative3 lies in its integration with Chainlink, a leading oracle network in the blockchain space. By leveraging Chainlink's reliable and decentralized oracle technology, CloudNative3 ensures seamless connectivity between on-chain and off-chain data sources. This integration enables real-time data validation, secure transactions, and accurate execution of smart contracts.
+## Challenges we ran into
+Combining the decentralized cloud computing platform with the Chainlink oracle machine to ensure the authenticity and integrity of communication data.
 
-## Challenges
+## Accomplishments that we're proud of
+One of the proud achievements of CloudNative3 is its communication proof technology based on TLSNotary combined with Chainlink external adapter. TLSNotary is a technology based on Transport Layer Security (TLS), which can be used to verify the authenticity and integrity of data during communication.
 
-During the development of CloudNative3, we encountered various challenges. Some of the key hurdles included ensuring scalability, maintaining data integrity, and optimizing performance while integrating Web3 and cloud-native technologies. Through rigorous testing and continuous improvement, we have addressed these challenges to deliver a robust and reliable platform.
+## What we learned
+1. Combine cloud native technology and blockchain technology through chainlink oracle
+2. Through the combination of TLSNotary and chainlink external adapter, the communication is more secure
 
-## Future Plans
-
-CloudNative3 has a clear roadmap for the future. We plan to enhance interoperability, further optimize performance, and expand our ecosystem by integrating with other Web3 protocols and platforms. We are committed to continuous innovation and collaboration with the community to unlock the full potential of CloudNative3.
+## What's next for CloudNative3
+1. More stable and reliable chainlink oracle-based security controls
+2. Smarter and more reliable service mesh governance
+3. More efficient and secure container cloud
