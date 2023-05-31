@@ -13,6 +13,10 @@ Decentralized security control through Chainlink oracles, including cloud comput
 ### Proof of communication
 Based on TLSNotary combined with Chainlink external adapter to realize communication proof, which can ensure the security and reliability of communication
 
+### Smart Contract
+Build decentralized security control based on Chainlink smart contracts, support external adapters combined with TLSNotary to realize the communication proof of the request model  
+[https://github.com/stc-community/CloudNative3/tree/main/contract](https://github.com/stc-community/CloudNative3/tree/main/contract)
+
 ### Decentralized cloud computing platform
 Including technologies such as container cloud, service grid governance, zero-trust security control, and decentralized security control of on-chain oracles
 
