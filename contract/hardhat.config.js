@@ -43,6 +43,11 @@ module.exports = {
     ],
   },
   networks: {
+    calibration: {
+      chainId: 314159,
+      url: "https://api.calibration.node.glif.io/rpc/v1",
+      accounts: [PRIVATE_KEY],
+    },
     goerli: {
       url: GOERLI_RPC_URL,
       accounts: PRIVATE_KEY !== undefined ? [PRIVATE_KEY] : [],
@@ -54,7 +59,7 @@ module.exports = {
       chainId: 11155111,
     },
   },
-  defaultNetwork: "sepolia",
+  defaultNetwork: "calibration",
   gasReporter: {
     enabled: REPORT_GAS,
     currency: "USD",
